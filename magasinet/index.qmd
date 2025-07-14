@@ -1,4 +1,7 @@
 ---
 title: "magasinet"
+format:
+    html:
+        css: index.css
 ---
 trill en terning. intervju en blindpassasjer. selg en t-skjorte.
