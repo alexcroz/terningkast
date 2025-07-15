@@ -8,4 +8,6 @@ trill en terning. intervju en blindpassasjer. selg en t-skjorte.
 
 store ting kommer. det skal være #ekte?
 
+:::{.links}
 Les [om oss](about.qmd).
+:::
