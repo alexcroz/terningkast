@@ -1,5 +1,5 @@
 ---
-title: "magasinet"
+title: "magasinet terningkast"
 format:
     html:
         css: index.css
