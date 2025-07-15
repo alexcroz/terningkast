@@ -2,3 +2,11 @@ body {
     text-align: center;
     font-family: "Lucida Console", "Courier New", monospace;
 }
+
+.links {
+  position: fixed;
+  bottom: 1rem;   
+  left: 1rem;
+  font-size: 0.9rem;
+  z-index: 1000;
+}
