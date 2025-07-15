@@ -6,7 +6,7 @@ website:
   title: "magasinet"
   site-url: https://terningkast.net
   resources:
-    - ../CNAME
+    - CNAME
 
   navbar:
     left:
