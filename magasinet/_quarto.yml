@@ -4,6 +4,7 @@ project:
 
 website:
   title: "magasinet"
+  site-url: https://terningkast.net
   navbar:
     left:
       - href: index.qmd
