@@ -1,12 +1,12 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - CNAME
 
 website:
   title: "magasinet"
   site-url: https://terningkast.net
-  resources:
-    - CNAME
 
   navbar:
     left:
