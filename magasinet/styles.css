@@ -1,1 +1,63 @@
-/* css styles */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: "Lucida Console", "Courier New", monospace;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+  position: relative;
+}
+
+html {
+  background: radial-gradient(circle at center, 
+      rgba(242, 101, 57, 0.92) 0%, 
+      rgba(147, 24, 10, 1) 24%, 
+      rgba(196, 53, 28, 1) 55%, 
+      rgba(210, 188, 42, 1) 89%, 
+      rgba(243, 235, 198, 1) 93%, 
+      rgba(232, 215, 119, 1) 98%);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.circle-text {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  padding: 30px;
+  overflow: hidden;
+  clip-path: circle();
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+/* New bottom text classes */
+.bottom-text-center {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 14px;
+
+}
+
+.bottom-text-right {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  font-size: 14px;
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  font-size: 0.9rem;
+  z-index: 1000;
+}
