@@ -3,11 +3,17 @@ title: "magasinet terningkast"
 format:
     html:
         css: index.css
+navbar: false
 ---
-trill en terning. intervju en blindpassasjer. selg en t-skjorte.
+<body>
+  <div class="background"></div>
+  <div class="content">
+    trill en terning. intervju en blindpassasjer. selg en t-skjorte.
 
-store ting kommer. det skal være #ekte?
 
+    mer på vei. det skal være #ekte?
+  </div>
+</body>
 :::{.links}
 Les [om oss](about.qmd).
 :::
