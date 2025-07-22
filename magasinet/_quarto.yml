@@ -3,22 +3,20 @@ project:
   output-dir: docs
   resources:
     - CNAME
-
 website:
   title: "magasinet"
   site-url: https://terningkast.net
-
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    left: 
+      - text: Home
+        href: index.qmd
+      - text: Om oss
+        href: about.qmd
 
 format:
   html:
     theme: pandoc
     css: styles.css
     toc: true
-
 
 

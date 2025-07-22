@@ -9,16 +9,10 @@ html, body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  text-align: center;
+  text-align: center !important;
   position: relative;
 }
 
-html, p {
-  width:18em;
-  text-align:justify;
-  text-align-last:justify;
-  align-items: center;
-}
 html {
   background: radial-gradient(circle at center, 
       rgba(242, 101, 57, 0.92) 0%, 
@@ -55,6 +49,13 @@ html {
   transform: translateX(-50%);
   font-size: 14px;
 
+}
+
+.fake-link {
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 14px;
 }
 
 .bottom-text-right {
