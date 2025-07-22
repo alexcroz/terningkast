@@ -3,11 +3,11 @@
 ---
 <div class="p">
 Magasinet terningkast er et kulturmagasin med trilling av <br>
-terning som rød tråd. Tilgjengelig i fysisk format og på <span style="font-size: 8vw;">*terningkast.net*</span>
+terning som rød tråd. Tilgjengelig i fysisk format og på <span style="font-size: 6vw;">*terningkast.net*</span>
 
 *Utvalgte artikler*:<br>
 
-hjelmsgate-3.pdf<br>
+<span type = "fake-link"> hjelmsgate-3.pdf<br> </span>
 soer-svenske-soundsystems.pdf <br> 
 </div>
 
