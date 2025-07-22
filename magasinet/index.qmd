@@ -9,10 +9,7 @@ navbar: false
 <body>
   <div class="background"></div>
   <div class="content">
-    trill en terning. intervju en blindpassasjer. selg en t-skjorte.
 
-
-    mer på vei. det skal være #ekte?
   </div>
 </body>
 :::{.links}
