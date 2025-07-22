@@ -5,6 +5,7 @@ format:
         css: index.css
 navbar: false
 ---
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <body>
   <div class="background"></div>
   <div class="content">
