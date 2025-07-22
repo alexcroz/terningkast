@@ -1,8 +1,14 @@
 ---
 # title: "Om oss"
 ---
-<div class="circle-text">
+<div class="body">
+Magasinet terningkast er tilgjengelig i fysisk format og på terningkast.net<br>
 
+Vi for å dokumentere det rare, alminnelige og spesielle.<br>
+
+Vårt motto er å si mer ja!<br>
+
+Derfor er vårt innhold fritt i format, skrivestil og perspektiv.<br>
 <br>
 </div>
 

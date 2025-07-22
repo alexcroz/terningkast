@@ -25,7 +25,7 @@ html {
   background-attachment: fixed;
 }
 
-.circle-text {
+/* .circle-text {
   width: 300px;
   height: 300px;
   border-radius: 50%;
@@ -38,7 +38,7 @@ html {
   text-align: center;
   font-size: 14px;
   line-height: 1.4;
-}
+} */
 
 /* New bottom text classes */
 .bottom-text-center {
