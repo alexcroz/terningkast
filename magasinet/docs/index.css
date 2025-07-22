@@ -17,3 +17,9 @@ html, body {
   font-size: 0.9rem;
   z-index: 1000;
 }
+
+p {
+  width:18em;
+  text-align:justify;
+  text-align-last:justify;
+  }
