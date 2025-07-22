@@ -2,8 +2,13 @@
 # title: "Om oss"
 ---
 <div class="p">
-Magasinet terningkast er tilgjengelig i fysisk format og på terningkast.net Vi brenner for å dokumentere det rare, alminnelige og spesielle. Vårt motto er *å si mer ja*! Derfor er vårt innhold fritt i format, skrivestil og perspektiv.
-<br>
+Magasinet terningkast er et kulturmagasin med trilling av terning som rød tråd.
+
+Tilgjengelig i fysisk format og på terningkast.net
+
+*Utvalgte arrtikler*
+hjelmsgate-3.pdf
+soer-svenske-soundsystems.pdf
 </div>
 
 <div class="bottom-text-center">Vi skriver fordi.</div>
