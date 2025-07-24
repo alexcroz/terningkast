@@ -2,14 +2,13 @@
 # title: "Om oss"
 ---
 <div class="p">
-Magasinet terningkast er et kulturmagasin med trilling av <br>
+Magasinet terningkast er et kulturmagasin med trilling av terning som rød tråd. Tilgjengelig i fysisk format og på
 
-terning som rød tråd. Tilgjengelig i fysisk format og på
 
 <div class = title> *terningkast.net*</div>
 
-*Utvalgte artikler*:<br>
 
+*Utvalgte artikler*:<br>
 
 [hjelmsgate-3.html](artikler/hjelmsgate.html) <br>
 

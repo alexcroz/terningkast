@@ -5,13 +5,13 @@ html, body {
   padding: 0;
   font-family: "Lucida Console", "Courier New", monospace;
   display: flex;
-
   flex-direction: column;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
   text-align: center !important;
   position: relative;
+  line-height: 1.5em;
 }
 
 
@@ -47,6 +47,8 @@ html {
 .title {
   color: rgb(2, 3, 84);
   font-size: 6vw;
+  font-weight: bold;
+  line-height: 1.6em;
 }
 
 .bottom-text-center {
@@ -63,6 +65,7 @@ html {
   text-decoration: underline;
   cursor: pointer;
   font-size: 14px;
+
 }
 
 .bottom-text-right {
@@ -70,7 +73,6 @@ html {
   bottom: 20px;
   right: 20px;
   font-size: 14px;
-  position: fixed;
   bottom: 1rem;
   right: 1rem;
   font-size: 0.9rem;
