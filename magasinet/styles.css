@@ -1,3 +1,4 @@
+
 html, body {
   height: 100%;
   margin: 0;
@@ -13,6 +14,7 @@ html, body {
   position: relative;
 }
 
+
 html {
   background: radial-gradient(circle at center, 
       rgba(242, 101, 57, 0.92) 0%, 
@@ -25,6 +27,7 @@ html {
   background-size: cover;
   background-attachment: fixed;
 }
+
 
 /* .circle-text {
   width: 300px;
@@ -41,7 +44,11 @@ html {
   line-height: 1.4;
 } */
 
-/* New bottom text classes */
+.title {
+  color: rgb(2, 3, 84);
+  font-size: 6vw;
+}
+
 .bottom-text-center {
   position: absolute;
   bottom: 20px;
