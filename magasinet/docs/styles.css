@@ -1,3 +1,4 @@
+
 html, body {
   height: 100%;
   margin: 0;
@@ -9,20 +10,15 @@ html, body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  text-align: center;
+  text-align: center !important;
   position: relative;
 }
 
-html, p {
-  width:18em;
-  text-align:justify;
-  text-align-last:justify;
-  align-items: center;
-}
+
 html {
   background: radial-gradient(circle at center, 
       rgba(242, 101, 57, 0.92) 0%, 
-      rgba(147, 24, 10, 1) 24%, 
+      rgba(147, 5, 10, 1) 24%, 
       rgba(196, 53, 28, 1) 55%, 
       rgba(210, 188, 42, 1) 89%, 
       rgba(243, 235, 198, 1) 93%, 
@@ -31,6 +27,7 @@ html {
   background-size: cover;
   background-attachment: fixed;
 }
+
 
 /* .circle-text {
   width: 300px;
@@ -47,7 +44,11 @@ html {
   line-height: 1.4;
 } */
 
-/* New bottom text classes */
+.title {
+  color: rgb(2, 3, 84);
+  font-size: 6vw;
+}
+
 .bottom-text-center {
   position: absolute;
   bottom: 20px;
@@ -55,6 +56,13 @@ html {
   transform: translateX(-50%);
   font-size: 14px;
 
+}
+
+.fake-link {
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 14px;
 }
 
 .bottom-text-right {
