@@ -1,23 +1,25 @@
 ---
-# title: "Om oss"
+css: [index.css, styles.css]
 ---
-<div class="p">
-Magasinet terningkast er et kulturmagasin med trilling av terning som rød tråd. Tilgjengelig i fysisk format og på
 
-
-<div class = title> *TERNINGKAST.NET*</div>
-
-
-*Utvalgte artikler*:<br>
-
-[hjelmsgate-3.html](artikler/hjelmsgate.html) <br>
-
-[malmo-undergrunnskultur.html](artikler/malmo-undergrunnskultur.html)
-
-[historien-om-den-blaa-sten.html](artikler/historien-om-den-blaa-sten.html)
+<div class="p"> 
+Vi i magasinet terningkast lar terningen
+bestemme. Tilgjengelig i fysisk format og på
 </div>
 
-<div class="bottom-text-center">Vi skriver fordi.</div>
-<div class="bottom-text-right">
-<a href="mailto:alex@crozier.no">Kontakt oss</a>
+<div class="frontpage-title">
+<a href="https://terningkast.net" target="_blank" rel="noopener noreferrer">
+    <em>TERNINGKAST.NET</em>
+</a>
+</div>
+
+<div>
+*Utvalgte artikler*:<br>
+
+[Øyafestivalen: Bladee og Yung Lean på hjemmebane](artikler/bladee_yunglean_oya.qmd) <br>
+</div>
+
+<div class="bottom-text-center">
+<div><a href="mailto:alex@crozier.no"><u>Kontakt oss</u></a></div>
+</div>
 </div>
