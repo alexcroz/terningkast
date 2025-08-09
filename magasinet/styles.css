@@ -1,3 +1,17 @@
+@font-face {
+  font-family: 'digitaldisco-thin';
+  src: url('fonts/digital_disco/DigitalDisco-Thin.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'digitaldisco';
+  src: url('fonts/digital_disco/DigitalDisco.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'digitalix';
+  src: url('fonts/digital_disco/digitalix.woff2') format('woff2');
+}
 
 html, body {
   height: 100%;
@@ -27,22 +41,6 @@ html {
   background-size: cover;
   background-attachment: fixed;
 }
-
-
-/* .circle-text {
-  width: 300px;
-  height: 300px;
-  border-radius: 50%;
-  padding: 30px;
-  overflow: hidden;
-  clip-path: circle();
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  font-size: 14px;
-  line-height: 1.4;
-} */
 
 .title {
   color: rgb(2, 3, 84);
