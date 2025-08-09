@@ -16,7 +16,9 @@ bestemme. Tilgjengelig i fysisk format og på
 <div>
 *Utvalgte artikler*:<br>
 
-[Øyafestivalen: Bladee og Yung Lean på hjemmebane](artikler/bladee_yunglean_oya.qmd) <br>
+[Fra Veggli til Tøyenparken: festivalsommerens mange ansikt](artikler/mnmt-2025.qmd)
+
+[Øyafestivalen 2025: Bladee og Yung Lean](artikler/bladee_yunglean_oya.qmd) <br>
 </div>
 
 <div class="bottom-text-center">
