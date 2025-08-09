@@ -16,7 +16,8 @@ website:
 format:
   html:
     theme: pandoc
-    css: styles.css
+    css:
+    - styles.css
     toc: true
 
 
