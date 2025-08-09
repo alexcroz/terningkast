@@ -17,6 +17,10 @@ html, body {
   line-height: 1.5em;
 }
 
+.subtitle {
+  font-size: 1.8em;
+}
+
 .p {
   text-align: justify;
   text-align-last: justify;
