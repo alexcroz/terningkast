@@ -10,7 +10,7 @@
 
 @font-face {
   font-family: 'digitalix';
-  src: url('fonts/digital_disco/digitalix.woff2') format('woff2');
+  src: url('fonts/digitalix/digitalix.woff2') format('woff2');
 }
 
 html, body {
@@ -30,24 +30,24 @@ html, body {
 
 
 html {
-  background: radial-gradient(circle at center, 
-      rgba(242, 101, 57, 0.92) 0%, 
-      rgba(147, 5, 10, 1) 24%, 
-      rgba(196, 53, 28, 1) 55%, 
-      rgba(210, 188, 42, 1) 89%, 
-      rgba(243, 235, 198, 1) 93%, 
-      rgba(232, 215, 119, 1) 98%);
-  background-repeat: no-repeat;
+  background: #FFC300;
+background: radial-gradient(circle, rgba(255, 195, 0, 1) 0%, rgba(252, 178, 18, 1) 7%, rgba(255, 195, 0, 1) 18%, rgba(255, 185, 20, 1) 20%, rgba(254, 133, 19, 1) 26%, rgba(252, 158, 18, 1) 36%, rgba(252, 125, 21, 1) 46%, rgba(252, 156, 38, 1) 63%, rgba(255, 119, 0, 1) 71%, rgba(254, 133, 19, 1) 80%, rgba(255, 81, 0, 1) 94%, rgba(255, 102, 0, 1) 100%);
+  /* background: #ffe282; */
+/* background: radial-gradient(circle, rgba(255, 226, 130, 1) 0%, rgba(255, 195, 0, 1) 18%, rgba(255, 185, 20, 1) 20%, rgba(254, 133, 19, 1) 26%, rgba(252, 158, 18, 1) 36%, rgba(252, 125, 21, 1) 46%, rgba(252, 156, 38, 1) 63%, rgba(255, 119, 0, 1) 71%, rgba(254, 133, 19, 1) 80%, rgba(255, 81, 0, 1) 94%, rgba(255, 102, 0, 1) 100%); */
+/* background: #ffe282;
+background: radial-gradient(circle, rgba(255, 226, 130, 1) 0%, rgba(255, 195, 0, 1) 10%, rgba(255, 185, 20, 1) 21%, rgba(254, 133, 19, 1) 26%, rgba(252, 158, 18, 1) 36%, rgba(252, 125, 21, 1) 46%, rgba(252, 156, 38, 1) 73%, rgba(255, 81, 0, 1) 94%, rgba(255, 102, 0, 1) 100%); */
+/* background: #ffe282;
+background: radial-gradient(circle, rgba(255, 226, 130, 1) 0%, rgba(255, 195, 0, 1) 10%, rgba(255, 185, 20, 1) 21%, rgba(252, 182, 18, 1) 40%, rgba(252, 156, 38, 1) 73%, rgba(255, 68, 0, 1) 94%, rgba(255, 102, 0, 1) 100%); */
   background-size: cover;
   background-attachment: fixed;
 }
 
 .title {
-  color: rgb(2, 3, 84);
-  font-size: 6vw;
-  font-weight: bold;
+  color: #753FAB;
+  font-size: 5vw;
+  font-family: 'digitalix';
   line-height: 1.6em;
-}
+} 
 
 .bottom-text-center {
   position: absolute;
