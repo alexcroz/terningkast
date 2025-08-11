@@ -10,3 +10,18 @@ background: radial-gradient(circle, rgba(255, 226, 130, 1) 0%, rgba(255, 195, 0,
   background-size: cover;
   background-attachment: fixed;
 }
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: "Lucida Console", "Courier New", monospace;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+  position: relative;
+  line-height: 1.5em;
+} 
