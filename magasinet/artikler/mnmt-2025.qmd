@@ -5,7 +5,7 @@ css: artikler.css
 ---
 09.08.2025
 
-[Monument](mnmt.no) og [Øyafestivalen](https://www.oyafestivalen.no/) faller begge inn under begrepet musikkfestival. Til tross for dette er det store forskjeller mellom festivalene: en  av de er i skogen og den den andre er i byen. I tillegg har Øya fått Palestinaaktivistene på nakken, noe Monument har til gode å oppleve. 
+[Monument](https://mnmt.no) og [Øyafestivalen](https://www.oyafestivalen.no/) faller begge inn under begrepet musikkfestival. Til tross for dette er det store forskjeller mellom festivalene: en  av de er i skogen og den den andre er i byen. I tillegg har Øya fått Palestinaaktivistene på nakken, noe Monument har til gode å oppleve. 
 
 Billettprisen for en langhelg i Vegglis Søre Risteigen gård strekker ikke lenger enn én dag på Øyafestivalen: om lag 1700 NOK. Dette til tross for at Monument ble utsolgt et i god tid før sommeren var i gang. 
 
@@ -20,5 +20,3 @@ Enten man har betalt dyre dommer for å se favorittbandet sitt spille i en av st
 Hørselvern er forbeholdt de med god planleggingsevne, de som leter og de som er villige til å kaste en halv løk på en lett tilgjengelig festivalbod.
 
 Festivalene titter nøye gjennom sekker og vesker, men når skal jeg få et par ørepropper i neven?
-
-

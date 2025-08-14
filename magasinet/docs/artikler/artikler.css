@@ -1,7 +1,5 @@
 html, body {
   height: 100%;
-  margin: 0;
-  padding: 0;
   font-family: "Lucida Console", "Courier New", monospace;
   display: flex;
   flex-direction: column;
@@ -11,4 +9,5 @@ html, body {
   text-align: center;
   position: relative;
   line-height: 1.5em;
+  margin-bottom: 600px !important;
 }
