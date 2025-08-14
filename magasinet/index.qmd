@@ -8,18 +8,27 @@ bestemme. Tilgjengelig i fysisk format og på
 </div>
 
 <div class="frontpage-title">
-<a href="https://terningkast.net" target="_blank" rel="noopener noreferrer">
+<a href="images/study_bitcoin_500_cropped.JPG" target="_blank" rel="noopener noreferrer">
     <em>TERNINGKAST.NET</em>
 </a>
 </div>
 
-<div>
+<div class="p2">
 *Utvalgte artikler*:<br>
 
 [Fra Veggli til Tøyenparken: festivalsommerens mange ansikt](artikler/mnmt-2025.qmd)
 </div>
+<div class="p2">
+*Kommende artikler:* <br>
+
+[Strappoteknikken og arven etter Diego Riviera](artikler/strappoteknikk.qmd)<br>
+[Hvem er BVG? Kunsten å gjøre hærverk](artikler/hvem-er-bvg.qmd)<br>
+[Bevar Sukkerbiten!](artikler/bevar-sukkerbiten.qmd)<br>
+[Hva er greia med støymusikk?](artikler/stoeymusikk.qmd)
+</div>
+
 
 <div class="bottom-text-center">
-<div><a href="mailto:alex@crozier.no"><u>Kontakt oss</u></a></div>
+<div><a href="mailto:alex@crozier.no">Kontakt oss</a><a href="https://instagram.com/magasinet_terningkast">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Instagram</a></div>
 </div>
 </div>

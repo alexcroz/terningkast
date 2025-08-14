@@ -4,7 +4,7 @@ project:
   resources:
     - CNAME
 website:
-  title: "magasinet"
+  title: "terningkast.net"
   site-url: https://terningkast.net
   navbar:
     left: 

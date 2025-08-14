@@ -13,6 +13,10 @@
   text-align-last: justify;
   max-width: 40vw;
 }
+.p2 {
+  text-align: center;
+  line-height: 2em;
+}
 
 .frontpage-title {
   font-size: 5vw;
@@ -37,6 +41,7 @@
 .bottom-text-center {
   left: 50%;
   transform: translateX(-50%);
+  font-weight: bold;
 }
 
 .bottom-text-center a {
